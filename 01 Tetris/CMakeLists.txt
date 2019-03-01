@@ -7,7 +7,7 @@ set(SFML_ROOT "C:\\Program Files (x86)\\SFML-2.5.1")
 find_package(SFML COMPONENTS graphics window system)
 include_directories(${SFML_INCLUDE_DIR})
 
-add_executable(tetris main.cpp)
+add_executable(tetris main.cpp GameClock.cpp TetrisGame.cpp)
 target_link_libraries(tetris ${SFML_LIBRARIES})
 ##SET CMP0074
 ##SET TETRIS DIE

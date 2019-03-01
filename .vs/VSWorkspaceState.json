@@ -1,9 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\01 Tetris",
-    "\\01 Tetris\\images"
+    "\\01 Tetris"
   ],
-  "SelectedNode": "\\01 Tetris\\CMakeLists.txt",
+  "SelectedNode": "\\01 Tetris\\main.cpp",
   "PreviewInSolutionExplorer": false
 }
