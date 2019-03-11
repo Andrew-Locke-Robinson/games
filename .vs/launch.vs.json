@@ -1,0 +1,23 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "type": "default",
+      "project": "03 Arkanoid\\CMakeLists.txt",
+      "projectTarget": "(Project) arkanoid.exe",
+      "name": "(Project) arkanoid.exe"
+    },
+    {
+      "type": "default",
+      "project": "01 Tetris\\CMakeLists.txt",
+      "projectTarget": "tetris.exe",
+      "name": "tetris.exe"
+    },
+    {
+      "type": "default",
+      "project": "01 Tetris\\CMakeLists.txt",
+      "name": "CMakeLists.txt"
+    }
+  ]
+}
